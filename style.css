@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    color: red;
+}
+
+#html {
+    color: orangered;
+}
+
+#curtidas{
+     background-color: pink;         /* cor de fundo */
+    color: palevioletred;           /* cor da letra */
+    padding: 5px 10px 5px 10px;       /* espaço interno */
+    border: 2px solid palevioletred;/* borda */
+    border-radius: 12px;              /* borda arredondada */
+}
